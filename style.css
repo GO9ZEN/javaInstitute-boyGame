@@ -1,0 +1,58 @@
+.background {
+  background-image: url("resources/background.png");
+  height: 100vh;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.boy {
+  height: 250px;
+  margin-top: 540px;
+  position: absolute;
+}
+
+.score {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 50px;
+  color: red;
+  font-weight: bold;
+  position: absolute;
+}
+
+.flame {
+  height: 150px;
+  position: absolute;
+  margin-top: 650px;
+  margin-left: 500px;
+}
+
+/****************************************/
+/***** GAME - (1025px - 1200px)  *****/
+/****************************************/
+@media all and (max-width: 1200px) {
+}
+
+/****************************************/
+/***** GAME - (769px - 1024px)  *****/
+/****************************************/
+@media all and (max-width: 1024px) {
+}
+
+/****************************************/
+/***** GAME - (481px - 768px)  *****/
+/****************************************/
+@media all and (max-width: 768px) {
+}
+
+/****************************************/
+/***** GAME - (321px - 480px)  *****/
+/****************************************/
+@media all and (max-width: 480px) {
+}
+
+/****************************************/
+/***** GAME - (0px - 320px)  *****/
+/****************************************/
+@media all and (max-width: 320px) {
+}
